@@ -1,0 +1,11 @@
+openai_stuff_helper:
+  css:
+    theme:
+      css/openai-stuff.css: {}
+  js:
+    js/openai-stuff-helper.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/once
+

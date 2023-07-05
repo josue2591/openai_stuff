@@ -1,0 +1,6 @@
+openai_stuff.settings_form:
+  title: openai stuff
+  description: Configure openai stuff.
+  parent: system.admin_config_system
+  route_name: openai_stuff.settings_form
+  weight: 10

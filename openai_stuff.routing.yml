@@ -1,0 +1,7 @@
+openai_stuff.settings_form:
+  path: '/admin/config/system/openai-stuff'
+  defaults:
+    _title: 'openai stuff settings'
+    _form: 'Drupal\openai_stuff\Form\SettingsForm'
+  requirements:
+    _permission: 'administer site configuration'
